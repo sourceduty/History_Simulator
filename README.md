@@ -20,6 +20,8 @@ To facilitate this, History Simulator employs a step-by-step, multiple-choice qu
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [AI Simulation](https://github.com/sourceduty/AI_Simulation)
+<br>
+[History Product](https://github.com/sourceduty/History_Product)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
